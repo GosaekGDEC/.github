@@ -1,4 +1,4 @@
-# 💻 [GosaekGDEC] - Game Developement & Exploration Club
+<img width="995" height="157" alt="image" src="https://github.com/user-attachments/assets/ded131c6-8f61-4d01-9b48-651d97a5295b" /># 💻 [GosaekGDEC] - Game Developement & Exploration Club
 
 ### 🔎 Introduction
 > **ahhhh**
@@ -46,7 +46,7 @@
     <td align="center"><a href="https://github.com/sihoo-kim"><img src="https://github.com/sihoo-kim.png" width="60px;" alt=""/></a><br /><sub><b>sihoo-kim</b></sub></td>
     <td align="center"><a href="https://github.com/rudmin0417"><img src="https://github.com/rudmin0417.png" width="60px;" alt=""/></a><br /><sub><b>rudmin0417</b></sub></td>
     <td align="center"><a href="https://github.com/ynkoho0823-ui"><img src="https://github.com/ynkoho0823-ui.png" width="60px;" alt=""/></a><br /><sub><b>ynkoho0823-ui</b></sub></td>
-    <td align="center"><a href="https://github.com/"><img src="https://github.com/.png" width="60px;" alt=""/></a><br /><sub><b>x</b></sub></td>
+    <td align="center"><a href="https://github.com/junghw7147-droid"><img src="https://github.com/junghw7147-droid.png" width="60px;" alt=""/></a><br /><sub><b>junghw7147-droid</b></sub></td>
     <td align="center"><a href="https://github.com/"><img src="https://github.com/.png" width="60px;" alt=""/></a><br /><sub><b>x</b></sub></td>
     <td></td>
   </tr>
