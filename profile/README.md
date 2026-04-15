@@ -1,4 +1,4 @@
-<img width="995" height="157" alt="image" src="https://github.com/user-attachments/assets/ded131c6-8f61-4d01-9b48-651d97a5295b" /># 💻 [GosaekGDEC] - Game Developement & Exploration Club
+# 💻 [GosaekGDEC] - Game Developement & Exploration Club
 
 ### 🔎 Introduction
 > **ahhhh**
