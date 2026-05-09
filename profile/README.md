@@ -32,7 +32,7 @@
     <td align="center" width="160"><a href="https://github.com/spotify-1"><img src="https://github.com/spotify-1.png" width="60px;" alt=""/></a><br /><sub><b>spotify-1</b></sub></td>
     <td align="center" width="160"><a href="https://github.com/trindamiu"><img src="https://github.com/trindamiu.png" width="60px;" alt=""/></a><br /><sub><b>Don Quixote</b></sub></td>
     <td align="center" width="160"><a href="https://github.com/ciberhomo"><img src="https://github.com/ciberhomo.png" width="60px;" alt=""/></a><br /><sub><b>ciberhomo</b></sub></td>
-    <td align="center" width="160"><a href="https://github.com/아이디5"><img src="https://github.com/아이디5.png" width="60px;" alt=""/></a><br /><sub><b>닉네임</b></sub></td>
+    <td align="center" width="160"><a href="https://github.com/zunicute"><img src="https://github.com/zunicute.png" width="60px;" alt=""/></a><br /><sub><b>zunicute</b></sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/choihs1324"><img src="https://github.com/choihs1324.png" width="60px;" alt=""/></a><br /><sub><b>choihs1324</b></sub></td>
