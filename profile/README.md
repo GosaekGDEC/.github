@@ -1,7 +1,7 @@
 # 💻 [GosaekGDEC] - Game Developement & Exploration Club
 
 ### 🔎 Introduction
-> **ahhhh**
+> **일 해라**
 
 ---
 
