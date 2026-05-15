@@ -47,8 +47,8 @@
     <td align="center"><a href="https://github.com/rudmin0417"><img src="https://github.com/rudmin0417.png" width="60px;" alt=""/></a><br /><sub><b>rudmin0417</b></sub></td>
     <td align="center"><a href="https://github.com/ynkoho0823-ui"><img src="https://github.com/ynkoho0823-ui.png" width="60px;" alt=""/></a><br /><sub><b>ynkoho0823-ui</b></sub></td>
     <td align="center"><a href="https://github.com/junghw7147-droid"><img src="https://github.com/junghw7147-droid.png" width="60px;" alt=""/></a><br /><sub><b>junghw7147-droid</b></sub></td>
+    <td align="center"><a href="https://github.com/chickennari"><img src="https://github.com/chickennari.png" width="60px;" alt=""/></a><br /><sub><b>chickennari</b></sub></td>
     <td align="center"><a href="https://github.com/"><img src="https://github.com/.png" width="60px;" alt=""/></a><br /><sub><b>x</b></sub></td>
-    <td></td>
   </tr>
 </table>
 
